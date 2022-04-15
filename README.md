@@ -1,5 +1,5 @@
 # FindWeb
- Projeto de estudo desenvolvido utilizando apis
+ Projeto de estudo desenvolvido utilizando apis, javascript e tmp bootstrap
 
  ### Funções:
 
