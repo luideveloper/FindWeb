@@ -7,7 +7,7 @@
 
  ## Funções ⚙️
 
- - Consulta de IP
+ -- Consulta de IP
  - Consulta de CEP
  - Consulta de CNPJ
  - Consulta de DDD
