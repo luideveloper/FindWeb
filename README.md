@@ -3,6 +3,7 @@
 - O Find é um site desenvolvido com total intuito de auxiliar pesquisadores e estudantes com ferramentas onlines e gratuitas de forma fácil, simples, e sem complicações.
 - Projeto de estudo desenvolvido utilizando apis, javascript e tmp bootstrap
 - O site está em constante atualização
+- Algumas apis podem não funcionar se o usuário utilizar extensões que bloqueiam anúncios
 - Acesse em: https://luideveloper.github.io/FindWeb/
 
  ## Funções ⚙️
