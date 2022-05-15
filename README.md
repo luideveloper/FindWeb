@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 # FindWeb 🔍
  
  - Projeto de estudo desenvolvido utilizando apis, javascript e tmp bootstrap
+=======
+# FindWeb
+ Projeto de estudo desenvolvido utilizando apis, javascript e tmp bootstrap, acesse: https://luideveloper.github.io/FindWeb/
+>>>>>>> 763402f1b218c18c02f3c984b7b6f0c49bd20595
 
  ### Funções:
 
